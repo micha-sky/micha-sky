@@ -4,8 +4,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Spotitube
-- 🌱 I’m currently learning microservices
+- 🔭 I’m currently working on some projects
+- 🌱 I’m currently learning react
 - 💬 Ask me about stuff
 - 📫 How to reach me: contact@alexmichasky.com
 - 😄 Pronouns: he/him
