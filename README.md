@@ -11,7 +11,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: badum-tss
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amichalskynf&show_icons=true&theme=radical&count_private=true)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=micha-sky&show_icons=true&theme=synthwave&count_private=true)
 
 
