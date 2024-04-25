@@ -4,10 +4,10 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on some projects
-- 🌱 I’m currently learning react
+- 🔭 I’m currently working on websites for friends 
+- 🌱 I’m currently learning react and gatsby and tailwind 
 - 💬 Ask me about stuff
-- 📫 How to reach me: contact@alexmichasky.com
+- 📫 How to reach me: contact@alexmichalsky.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: badum-tss
 
